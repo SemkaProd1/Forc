@@ -1,0 +1,30 @@
+G:\visual studio 2010\Projects\BattleShipsNEW\BattleShipsNEW\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\visual studio 2010\Projects\BattleShipsNEW\BattleShipsNEW\bin\Debug\BattleShipsNEW.exe.config
+G:\visual studio 2010\Projects\BattleShipsNEW\BattleShipsNEW\bin\Debug\BattleShipsNEW.exe
+G:\visual studio 2010\Projects\BattleShipsNEW\BattleShipsNEW\bin\Debug\BattleShipsNEW.pdb
+G:\visual studio 2010\Projects\BattleShipsNEW\BattleShipsNEW\obj\x86\Debug\BattleShipsNEW.exe
+G:\visual studio 2010\Projects\BattleShipsNEW\BattleShipsNEW\obj\x86\Debug\BattleShipsNEW.pdb
+C:\Users\G3\Documents\Visual Studio 2010\Projects\BattleShips\BattleShipsNEW\BattleShipsNEW\bin\Debug\BattleShipsNEW.exe.config
+C:\Users\G3\Documents\Visual Studio 2010\Projects\BattleShips\BattleShipsNEW\BattleShipsNEW\bin\Debug\BattleShipsNEW.exe
+C:\Users\G3\Documents\Visual Studio 2010\Projects\BattleShips\BattleShipsNEW\BattleShipsNEW\bin\Debug\BattleShipsNEW.pdb
+C:\Users\G3\Documents\Visual Studio 2010\Projects\BattleShips\BattleShipsNEW\BattleShipsNEW\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\G3\Documents\Visual Studio 2010\Projects\BattleShips\BattleShipsNEW\BattleShipsNEW\obj\x86\Debug\BattleShipsNEW.exe
+C:\Users\G3\Documents\Visual Studio 2010\Projects\BattleShips\BattleShipsNEW\BattleShipsNEW\obj\x86\Debug\BattleShipsNEW.pdb
+C:\Users\g\Documents\Visual Studio 2010\Projects\BattleShips\BattleShipsNEW\BattleShipsNEW\bin\Debug\BattleShipsNEW.exe.config
+C:\Users\g\Documents\Visual Studio 2010\Projects\BattleShips\BattleShipsNEW\BattleShipsNEW\bin\Debug\BattleShipsNEW.exe
+C:\Users\g\Documents\Visual Studio 2010\Projects\BattleShips\BattleShipsNEW\BattleShipsNEW\bin\Debug\BattleShipsNEW.pdb
+C:\Users\g\Documents\Visual Studio 2010\Projects\BattleShips\BattleShipsNEW\BattleShipsNEW\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\g\Documents\Visual Studio 2010\Projects\BattleShips\BattleShipsNEW\BattleShipsNEW\obj\x86\Debug\BattleShipsNEW.exe
+C:\Users\g\Documents\Visual Studio 2010\Projects\BattleShips\BattleShipsNEW\BattleShipsNEW\obj\x86\Debug\BattleShipsNEW.pdb
+C:\Users\g\Documents\Programs\BattleShipsNEW\BattleShipsNEW\bin\Debug\BattleShipsNEW.exe.config
+C:\Users\g\Documents\Programs\BattleShipsNEW\BattleShipsNEW\obj\x86\Debug\BattleShipsNEW.exe
+C:\Users\g\Documents\Programs\BattleShipsNEW\BattleShipsNEW\obj\x86\Debug\BattleShipsNEW.pdb
+C:\Users\g\Documents\Programs\BattleShipsNEW\BattleShipsNEW\bin\Debug\BattleShipsNEW.exe
+C:\Users\g\Documents\Programs\BattleShipsNEW\BattleShipsNEW\bin\Debug\BattleShipsNEW.pdb
+C:\Users\g\Documents\Programs\BattleShipsNEW\BattleShipsNEW\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\SemkaProd\Documents\Visual Studio 2015\Projects\Console-Battleships-CSHARP\BattleShipsNEW\bin\Debug\BattleShipsNEW.exe.config
+C:\Users\SemkaProd\Documents\Visual Studio 2015\Projects\Console-Battleships-CSHARP\BattleShipsNEW\bin\Debug\BattleShipsNEW.exe
+C:\Users\SemkaProd\Documents\Visual Studio 2015\Projects\Console-Battleships-CSHARP\BattleShipsNEW\bin\Debug\BattleShipsNEW.pdb
+C:\Users\SemkaProd\Documents\Visual Studio 2015\Projects\Console-Battleships-CSHARP\BattleShipsNEW\obj\x86\Debug\BattleShipsNEW.csprojResolveAssemblyReference.cache
+C:\Users\SemkaProd\Documents\Visual Studio 2015\Projects\Console-Battleships-CSHARP\BattleShipsNEW\obj\x86\Debug\BattleShipsNEW.exe
+C:\Users\SemkaProd\Documents\Visual Studio 2015\Projects\Console-Battleships-CSHARP\BattleShipsNEW\obj\x86\Debug\BattleShipsNEW.pdb

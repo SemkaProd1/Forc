@@ -1,0 +1,6 @@
+C:\Users\SemkaProd\Documents\Visual Studio 2015\Projects\Console-Battleships-CSHARP\BattleShipsNEW\bin\Debug\BattleShipsNEW.exe.config
+C:\Users\SemkaProd\Documents\Visual Studio 2015\Projects\Console-Battleships-CSHARP\BattleShipsNEW\bin\Debug\BattleShipsNEW.exe
+C:\Users\SemkaProd\Documents\Visual Studio 2015\Projects\Console-Battleships-CSHARP\BattleShipsNEW\bin\Debug\BattleShipsNEW.pdb
+C:\Users\SemkaProd\Documents\Visual Studio 2015\Projects\Console-Battleships-CSHARP\BattleShipsNEW\obj\Debug\BattleShipsNEW.exe
+C:\Users\SemkaProd\Documents\Visual Studio 2015\Projects\Console-Battleships-CSHARP\BattleShipsNEW\obj\Debug\BattleShipsNEW.pdb
+C:\Users\SemkaProd\Documents\Visual Studio 2015\Projects\Console-Battleships-CSHARP\BattleShipsNEW\obj\Debug\BattleShipsNEW.csprojResolveAssemblyReference.cache
